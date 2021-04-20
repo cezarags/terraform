@@ -12,6 +12,8 @@ Project terraform  to  manage infrastructure
 Comando utilizados:
 
 1- terraform init:  inicializar
+
 2- terraform plan:  criar o planejamento e exibir como irá ser contruido
+
 3- terraform apply:  aplicar iniciar a construção das instâncias.
 
